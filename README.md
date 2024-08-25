@@ -1,7 +1,7 @@
 ## About Me 👋
 I am a full-stack developer with over 5 years of continuous experience. I offer mentorship in coding as well as logical problem-solving.
 
-## Skills 🌱
+## Skills 🎓
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/v2/C4D16AQF_ZqWDlyVm-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648575757082?e=1730332800&v=beta&t=64mp66Bw_-t0Du4FfgIvSCf9fJRZF4Q4SNCRCVyCNDs">
@@ -9,6 +9,7 @@ I am a full-stack developer with over 5 years of continuous experience. I offer 
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://media.licdn.com/dms/image/v2/C4D16AQF_ZqWDlyVm-g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1648575757082?e=1730332800&v=beta&t=64mp66Bw_-t0Du4FfgIvSCf9fJRZF4Q4SNCRCVyCNDs">
 </picture>
 
+`🥷 PHP` `Laravel` `NodeJs` ``
 
 **riteshcode/riteshcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
