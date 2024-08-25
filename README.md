@@ -1,4 +1,5 @@
-## Hi there 👋
+## About Me 👋
+I am a full-stack developer with over 5 years of continuous experience. I offer mentorship in coding as well as logical problem-solving.
 
 <!--
 **riteshcode/riteshcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
